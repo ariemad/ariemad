@@ -3,10 +3,11 @@
 
 ## Connect with me:
 
-<a href="https://github.com/ariemad" target="blank"><img align="center" src="https://danielbray.me/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgithub.dc0ba78e.png&w=2048&q=75" alt="Github" height="75" style='margin-right: 20px'  /></a>
-<a href="https://linkedin.com/in/daniel-bray-365014276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-bray-365014276" height="75" style='margin-right: 20px'  /></a>
-<a href="mailto:daniel.bray.dev@hotmail.com" target="blank"><img align="center" src="https://danielbray.me/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmail.382820fe.png&w=256&q=75" alt="mail" height="75" style='margin-right: 20px'  /></a>
-<a href="https://www.leetcode.com/ariemad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="75" style='margin-right: 20px'  /></a>
+<a href="https://github.com/ariemad" target="blank"><img align="center" src="https://danielbray.me/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgithub.dc0ba78e.png&w=2048&q=75" alt="Github" height="75" style='margin: 20px'  /></a>
+<a href="https://linkedin.com/in/daniel-bray-365014276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-bray-365014276" height="75" style='margin: 20px'  /></a>
+
+<a href="mailto:daniel.bray.dev@hotmail.com" target="blank"><img align="center" src="https://danielbray.me/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmail.382820fe.png&w=256&q=75" alt="mail" height="75" style='margin: 20px'  /></a>
+<a href="https://www.leetcode.com/ariemad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="75" style='margin: 20px'  /></a>
 
 </p>
 
